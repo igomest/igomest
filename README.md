@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  Hello, my name is Ivan Gomes, I'm a Front-End Developer!
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  Hello, my name is Ivan Gomes, I'm a Software Engineer!
 
 
 <br><br>
