@@ -1,7 +1,6 @@
 <h3> 🧝‍♂️: &nbsp;It's me, Ivan! </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning **Nodejs World**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
