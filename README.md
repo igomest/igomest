@@ -1,43 +1,66 @@
-<h3> 🧝‍♂️: &nbsp;It's me, Ivan! </h3>
+<h1 align="center">Hi there! I'm Ivan 👨‍💻</h1>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+<p align="center">
+  A passionate Software Developer from Brazil who loves creating amazing web experiences
+</p>
 
-<h3> :rocket: &nbsp;My Skills </h3>
+### 🚀 About Me
 
-**Frontend**
+- 🔭 I'm currently working with **Full Stack Development**
+- 🌱 Always exploring new technologies and developing software solutions
+- 💡 I love building innovative and user-friendly applications
+- 🎯 Goal-oriented and dedicated to writing clean, efficient code
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next.js)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![React Query](https://img.shields.io/badge/-ReactQuery-333333?style=flat&logo=reactquery)
-  ![React Hook Form](https://img.shields.io/badge/-ReactHookForm-333333?style=flat&logo=reacthookform)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Testing Library](https://img.shields.io/badge/-TestingLibrary-333333?style=flat&logo=testinglibrary)
-  ![Styled-Components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
-  ![Chakra UI](https://img.shields.io/badge/-ChakraUI-333333?style=flat&logo=chakraui)
+### 💻 Tech Stack
 
-**Backend**
+#### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=node.js)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+#### Frontend Tools & Libraries
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<br/>
+#### UI Libraries
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0)
+![Mantine](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
 
-   <a href="https://github.com/igomest">
-  <img width="390em" src="https://github-readme-stats.vercel.app/api?username=igomest&show_icons=true&theme=vision-friendly-dark" alt="ivan stats"/>
-</a>
+#### Backend & Databases
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
+![.Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
 
-<a href="https://github.com/igomest">
-  <img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igomest&layout=compact&theme=vision-friendly-dark" alt="ivan most languages"/>
-</a>
+### 📊 GitHub Stats
 
-<br/>
+<div align="center">
+  <a href="https://github.com/igomest">
+    <img width="390em" src="https://github-readme-stats.vercel.app/api?username=igomest&show_icons=true&theme=vision-friendly-dark" alt="ivan stats"/>
+  </a>
+  <a href="https://github.com/igomest">
+    <img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igomest&layout=compact&theme=vision-friendly-dark" alt="ivan most languages"/>
+  </a>
+</div>
 
-<h3> :earth_americas: &nbsp;Contacts: </h3> 
+### 🌎 Let's Connect
 
-[![Linkedin: Ivan Gomes](https://img.shields.io/badge/-ivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-gomes-883820214/)](https://www.linkedin.com/in/ivan-gomes-883820214/)
-[![Gmail Badge](https://img.shields.io/badge/-ivanjunior.pt@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivanjunior.pt@gmail.com)](mailto:ivanjunior.pt@gmail.com)
-[![GitHub Ivan Gomes]( https://img.shields.io/github/followers/ivangomestr?label=follow&style=social)](https://github.com/ivangomestr)
+<div align="center">
 
+[![Linkedin: Ivan Trindade](https://img.shields.io/badge/-Ivan_Trindade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-gomes-883820214/)](https://www.linkedin.com/in/ivan-gomes-883820214/)
+[![Gmail Badge](https://img.shields.io/badge/-ivanjunior.pt@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ivanjunior.pt@gmail.com)](mailto:ivanjunior.pt@gmail.com)
+[![Dev.to blog](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/trinity_)
+
+</div>
+
+---
+<p align="center">
+  Thanks for visiting my profile! Feel free to connect with me 😊
+</p>
